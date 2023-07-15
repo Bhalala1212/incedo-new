@@ -14,7 +14,7 @@ const Dashboard = () => {
         padding: '20px',
       }}>
         <Typography variant="h4" sx={{ color: 'secondary.main' }}>
-          Home
+          Dashboard 
         </Typography>
       </Box>
     </>
