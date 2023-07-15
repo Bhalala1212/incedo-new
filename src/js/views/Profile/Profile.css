@@ -1,0 +1,32 @@
+
+table {
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+    font-size: 15px;
+}
+
+.action-box {
+    text-align: right;
+}
+th{
+    padding: 15px;
+}
+td{
+    padding: 13px 15px;
+}
+th {
+    background-color: #01a4ff;
+    color: #ffffff;
+}
+tr + tr {
+    border-top: 1px solid #dddddd;
+}
+tbody tr:hover {
+    background-color: #f8f9ff;
+}
+thead {
+    position: sticky;
+    top: 0;
+    z-index: 9;
+}
